@@ -1,12 +1,10 @@
-p {
-        text-align: center;
-      background: #CCCC
-    }
+ body{ 
+         backegroud: #CCCCCC;
+ }
 
-    h1{
-background: #CCCC
-    }
-    
-        body{
-            background:#cccc;
-        }
+ #banner{
+ }
+
+  h1 {
+          text-aling: center;
+  }
