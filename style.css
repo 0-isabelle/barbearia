@@ -47,9 +47,9 @@ p {
   vertical-aling: top;
    width:20%;
 
-   
-   margin-right: 15%;
-   
+   .titulo-principál {
+   padding-left:20px;
+   }   
   
 .titulo-centralizado {
  text-aling: center;
