@@ -7,7 +7,7 @@
   </head>
   <body>
 <header>
- <h1> Barbearia Alura<h1>
+ <h1> class="titulo-principal "> Barbearia Alura<h1>
   </hearder>
      <h1 style="text alingn: center
 <div class="principal">
