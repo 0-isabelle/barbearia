@@ -1,13 +1,12 @@
  body{ 
          backegroud: #CCCCCC;
  }
-
  #banner{
   widthi: 100%;
  }
 
-  h1 {
-          text-aling: center;
+  .pricipal {
+          bac
   }
 
 p {
@@ -26,13 +25,14 @@ p {
    .itens {0
  font-style: italic;
    }
+ h2{
+    text-aling:center;
+ }
 
-
-
-
-
-
-
+ .beneficios{
+ background:#FFFFFF
+ padding:20px;
+ }
 
 .itens
   font-style>: italiic;
